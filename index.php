@@ -6,3 +6,5 @@
 $toto = "Ceci est une chaîne débile";
 
 echo $toto;
+
+echo ("Ca marche");
